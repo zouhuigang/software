@@ -22,4 +22,6 @@
 
 ![./images/phone.png](./images/ip.png)
 
+![./images/image_1.jpg](./images/image_1.jpg)
+
 	
